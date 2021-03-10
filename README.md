@@ -13,12 +13,15 @@ Goals:
 * Search bar 
     * autofill
     * Carousel of movie posters (IMDb)
+    * Dropdown for genres 
+
+https://getbootstrap.com/docs/4.5/getting-started/introduction/ 
 
 ## Pages
 * Home
     * Overview
     * Search bar
-    
+
 
 
 ## Tools & Resources
